@@ -1,0 +1,9 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationProfile.linux": {
+
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+    "terminal.integrated.fontSize": 11
+}
